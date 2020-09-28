@@ -1,0 +1,18 @@
+body{
+  background-image: url('https://images.unsplash.com/photo-1546450334-03038e2eaa39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80') !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  background-size:cover !important ;
+}
+h1{
+  font-size: 700%  !important;
+  padding-left: 30% !important;
+  padding-top: 10% !important;
+  color: #F4F6F7 !important;
+  font-family: 'Merriweather', serif !important;
+}
+h2{
+    color: #F4F6F7 !important;
+      padding-left: 80% !important;
+      font-family: 'Sacramento', cursive !important;
+}
